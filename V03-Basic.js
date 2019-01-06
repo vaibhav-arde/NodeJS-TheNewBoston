@@ -18,7 +18,7 @@ function worthLess(){
 console.log(worthLess());
 
 var anyVar = function(){
-    console.log("Veg is proties rich , dont belive doctors");
+    console.log("Veg is protine rich , dont belive doctors");
 }
 
 anyVar();

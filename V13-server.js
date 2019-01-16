@@ -8,4 +8,4 @@ function firstRequest(request, response){
 }
 
 http.createServer(firstRequest).listen(8888);
-console.log('Server is running!!');
+console.log('Yahoo!!!...Server is running!!');

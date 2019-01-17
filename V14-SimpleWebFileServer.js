@@ -19,6 +19,6 @@ function webFileServer(request, response){
     }
 }
 
-//Handle a user request
+//Creating server
 http.createServer(webFileServer).listen(8888);
 console.log(`Starting a WebFileServer`);

@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-thenewboston",
+  "version": "1.0.0",
+  "description": "NodeJS practice using youtube of TheNewBoston",
+  "main": "V03-Basic.js",
+  "dependencies": {
+    "connect": "^3.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav-arde/NodeJS-TheNewBoston.git"
+  },
+  "author": "VaibhaV Arde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhav-arde/NodeJS-TheNewBoston/issues"
+  },
+  "homepage": "https://github.com/vaibhav-arde/NodeJS-TheNewBoston#readme"
+}

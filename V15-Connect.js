@@ -5,9 +5,11 @@ var app = connect();
 
 // function doFirst(request, response, next){
 //     console.log(`Do this first!`);
+//     next();
 // }
 // function doSecond(request, response, next){
 //     console.log(`Do this Second!`);
+//     next();
 // }
 // app.use(doFirst);
 // app.use(doSecond);
